@@ -3,6 +3,7 @@ Final project at DS in Experis Academy
 
 ## The project's instruction:
 Image inpainting reconstructs images in which some areas are missing - for example, due to damage over time.
+
 The images are in grayscale and the missing parts are black, while there are no other black pixels in the image.
 
 
