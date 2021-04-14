@@ -12,4 +12,4 @@ The images are in grayscale and the missing parts are black, while there are no 
 2. Check from the diagonals.
 3. Learn on the all set of images (or more).
 4. Use weights when combining all images from all combinations.
-5. Try various algorithms
+5. Try various algorithms.
